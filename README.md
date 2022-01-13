@@ -1,4 +1,9 @@
 ### Olá! Eu sou o Bruno Luan 🤙 
+     
+       Desenvolvedor front-end
+          Desenvolvedor de Projetos de Banco de Dados
+         
+       
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunno.luann/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-luan-74242b32/)
