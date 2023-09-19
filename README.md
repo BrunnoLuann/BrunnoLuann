@@ -4,8 +4,7 @@
 
 ### Olá! Eu sou o Bruno Luan 🤙 
      
-       Desenvolvedor front-end
-          Desenvolvedor de Projetos de Banco de Dados
+       Desenvolvedor Full Stack
          
        
 
